@@ -1,12 +1,41 @@
 # algorithms
-This repository contains each of the algorithms written for FreeCodeCamp
+This repository contains each of the algorithms written for FreeCodeCamp. The algorithms are split into three folders: basicAlgorithms, intermediateAlgorithms, and advancedAlgorithms. Each folder corresponds with the associated section in FreeCodeCamp's Front End Development Certification curriculum.
 
-Reverse a String (reverseString.js)
+# basicAlgorithms
+Where do I belong: arrayInsertIndex.js
 
-Factorialize a Number (factorial.js)
+Slasher Flick: arraySlasher.js
 
-Check for Palindromes (palindromeCheck.js)
+Caesars Cipher: caesarsCipher.js
 
-Find the Longest Word in a String (longestWordLength.js)
+Chunky Monkey: chunkedArray.js
 
-Title Case a Sentence (titleCase.js)
+Confirm the Ending: confirmEnding.js
+
+Factorialize a Number: factorial.js
+
+Falsy Bouncer: falsyBouncer.js
+
+Return Largest Numbers in Arrays: largestValuesInArray.js
+
+Find the Longest Word in a String: longestWordLength.js
+
+Mutations: mutation.js
+
+Check for Palindromes: palindromeCheck.js
+
+Repeat a String: repeatString.js
+
+Reverse a String: reverseString.js
+
+Seek and Destroy: seekAndDestroy.js
+
+Title Case a Sentence: titleCase.js
+
+Truncate a String: truncateString.js
+
+# intermediateAlgorithms
+(none completed yet)
+
+# advancedAlgorithms
+(none completed yet)
