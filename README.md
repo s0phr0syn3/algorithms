@@ -1,7 +1,7 @@
 # algorithms
 This repository contains each of the algorithms written for FreeCodeCamp. The algorithms are split into three folders: basicAlgorithms, intermediateAlgorithms, and advancedAlgorithms. Each folder corresponds with the associated section in FreeCodeCamp's Front End Development Certification curriculum.
 
-# basicAlgorithms
+# /basicAlgorithms
 Where do I belong: arrayInsertIndex.js
 
 Slasher Flick: arraySlasher.js
@@ -34,8 +34,8 @@ Title Case a Sentence: titleCase.js
 
 Truncate a String: truncateString.js
 
-# intermediateAlgorithms
+# /intermediateAlgorithms
 (none completed yet)
 
-# advancedAlgorithms
+# /advancedAlgorithms
 (none completed yet)
