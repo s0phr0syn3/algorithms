@@ -35,7 +35,11 @@ Title Case a Sentence: titleCase.js
 Truncate a String: truncateString.js
 
 # /intermediateAlgorithms
-(none completed yet)
+Diff Two Arrays: diffTwoArrays.js
+
+Roman Numeral Converter: romanNumeralConverter.js
+
+Sum All Numbers in a Range: sumAll.js
 
 # /advancedAlgorithms
 (none completed yet)
