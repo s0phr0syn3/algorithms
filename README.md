@@ -39,7 +39,11 @@ Diff Two Arrays: diffTwoArrays.js
 
 Roman Numeral Converter: romanNumeralConverter.js
 
+Search and Replace: searchAndReplace.js
+
 Sum All Numbers in a Range: sumAll.js
+
+Wherefore Art Thou: whereforeArtThou.js
 
 # /advancedAlgorithms
 (none completed yet)
