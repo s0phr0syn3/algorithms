@@ -1,5 +1,5 @@
 function booWho(bool) {
-  if (bool === true || bool === false) {
+  if (typeof bool === "boolean") {
     return true;
   } else {
     return false;
