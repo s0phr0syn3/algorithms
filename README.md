@@ -35,11 +35,23 @@ Title Case a Sentence: titleCase.js
 Truncate a String: truncateString.js
 
 # /intermediateAlgorithms
+Boo Who: booWho.js
+
+Convert HTML Entities: convertHTMLEntities.js
+
 Diff Two Arrays: diffTwoArrays.js
+
+DNA Pairing: dnaPairing.js
+
+Missing Letters: missingLetters.js
+
+Pig Latin: pigLatin.js
 
 Roman Numeral Converter: romanNumeralConverter.js
 
 Search and Replace: searchAndReplace.js
+
+Sorted Union: sortedUnion.js
 
 Sum All Numbers in a Range: sumAll.js
 
