@@ -58,4 +58,4 @@ Sum All Numbers in a Range: sumAll.js
 Wherefore Art Thou: whereforeArtThou.js
 
 # /advancedAlgorithms
-(none completed yet)
+Validate US Phone Numbers: validateUSPhoneNumbers.js
